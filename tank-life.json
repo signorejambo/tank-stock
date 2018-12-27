@@ -54,6 +54,22 @@
       {
         "species": "Anubias",
         "latin": "Anubias barteri"
+      },
+      {
+        "species": "Anubias",
+        "latin": "Cryptocoryne nevelli"
+      },
+      {
+        "species": "Amazon Sword",
+        "latin": "echinodorus parviflorus",
+      },
+      {
+        "species": "dao noi",
+        "latin": "pogostemon helferi",
+      },
+      {
+        "species": "Dwarf Hair Grass",
+        "latin": "eleocharis acicularis",
       }
     ],
     "heaven": [
