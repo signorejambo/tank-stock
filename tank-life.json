@@ -3,35 +3,43 @@
     "fish": [
       {
         "quantity": "5",
-        "species": "Penguin tetra"
+        "common": "Penguin tetra",
+        "scientific": "Thayeria Boehlkei"
       },
       {
         "quantity": "5",
-        "species": "Neon tetra"
+        "common": "Neon tetra",
+        "scientific": "Paracheirodon Innesi"
       },
       {
         "quantity": "6",
-        "species": "Cardinal tetra"
+        "common": "Cardinal tetra",
+        "scientific": "Paracheirodon axelrodi"
       },
       {
         "quantity": "7",
-        "species": "Cherry barb"
+        "common": "Cherry barb",
+        "scientific": "Puntius Titteya"
       },
       {
         "quantity": "1",
-        "species": "Dwarf corydoras"
+        "common": "Dwarf corydoras",
+        "scientific": "Corydoras hastatus"
       },
       {
         "quantity": "5",
-        "species": "Arcuatus corydoras"
+        "common": "Skunk Corydoras",
+        "scientific": "Corydoras Arcuatus"
       },
       {
         "quantity": "3",
-        "species": "Japonica shrimp"
+        "common": "Japonica shrimp",
+        "scientific": "Caridina multidentata"
       },
       {
         "quantity": "15",
-        "species": "Guppies"
+        "common": "Cobra Snakeskin Guppy",
+        "scientific": "Poecilia Reticulata"
       }
     ],
     "plants": [
