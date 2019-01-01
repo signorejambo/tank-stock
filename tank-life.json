@@ -40,6 +40,11 @@
         "quantity": "15",
         "common": "Cobra Snakeskin Guppy",
         "scientific": "Poecilia Reticulata"
+      },
+      {
+        "quantity": "3",
+        "common": "Boesemani Rainbowfish",
+        "scientific": "Melanotaenia Boesemani"
       }
     ],
     "plants": [
